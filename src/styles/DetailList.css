@@ -1,0 +1,24 @@
+.lmb-allitem-list {
+	width: 100%;
+}
+
+.lmb-item-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.lmb-item-button{
+	padding: 11px 16px;
+    cursor: pointer;
+    border-width: 1px;
+    border-radius: 17px;
+    font-size: 14px;
+    font-weight: 400;
+	color: white;
+	background-color: #194766;
+}
+
+

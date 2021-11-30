@@ -1,0 +1,19 @@
+.lmb-categories {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.lmb-categories-select {
+	margin-right: 15px;
+}
+
+.lmb-categories-button{
+	padding: 11px 16px;
+    cursor: pointer;
+    border-width: 1px;
+    border-radius: 17px;
+    font-size: 14px;
+    font-weight: 400;
+	color: white;
+	background-color: #194766;
+}

@@ -1,0 +1,17 @@
+.card-group{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(230px, 1fr));
+    grid-gap: 20px;
+    font-size: 20px;
+    padding: 100px 16px;
+    color: white;
+    
+}
+.card {
+    display: grid;
+    grid-template-rows: max-content 200px;
+    justify-content: center;
+    background-color: #194766;
+    border-radius: 17px;
+    text-align: center;
+}
